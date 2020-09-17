@@ -11,30 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in EECS (Theoretical Machine Learning), University of Michigan, Ann Arbor '17
+* M.S. in EECS, University of Michigan, Ann Arbor, '14
+* B.Tech. in EECS, Indian Institute of Technology, Delhi, '12
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Data Scientist, AI lab 3M Corporate Research Systems Lab** (Oct’17 – Oct‘20):
+  *	Projects focused on multiple ML projects focusing on data analytics, computer vision, generative adversarial networks, reinforcement learning, time series analysis
+  *	Developed web deployment pipeline using AWS Sagemaker for multiple projects 
+  *	Research throughput: Applied for 18 patents
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Data Scientist, General Data Science lab, Oral Care Solutions Division** (Jan’20-Oct’20):
+  * Projects focussed on 3D geometry, computational imaging, and Geometric Deep Learning within the domain of Digital Orthodontics
+  *	Developed ML pipelines for research and development using Azure cloud infrastructure
+  *	Research throughput: Applied for 4 patents
+
+* **Graduate Research Assistant, EECS Department University of Michigan Ann Arbor**:
+  *	Applications of recent results from Random Matrix Theory on Low Rank Subspace Estimation problems in the Multi Modal setting.
+  *	Collaborated with network scientists from Army Research Lab and MIT Lincoln lab.
+  *	Taught EECS301:Probability and Statistics to Undergraduate students.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+### Machine Learning:
+* 2D/3D Computer Vision
+* Time Series Analysis/ Forecasting
+* Dictionary Learning, Low Rank Subspace Estimation
+* Optimization
+
+### Programming Languages: 
+* **Python** (proficient): 
+  * **ML frameworks**:  Tensorflow (1.x and 2.x), PyTorch, scikit-learn
+  * **Scientific computing**: numpy, pandas, scipy, scikit-optimize, OpenCV, statsmodels
+  * **Visualization**: matplotlib, seaborn, plotly, dash
+  * **Cloud infrastructure**: AzureML SDK, AWS sagemaker, boto3
+* **R** (intermediate):
+  * **ML frameworks**: caret
+  * **Tidyverse**: dplyr, tidyr, purr
+  * **Visualization**: ggplot2, R shiny
+* **MATLAB**(intermediate), **GNU Octave** (intermediate), **C++** (learning)
+
+### Miscellaneous Technologies:
+*	Docker, Conda, Git
+
 
 Publications
 ======
@@ -42,18 +64,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Honors and awards:
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+*	Rackham Graduate Fellowship ‘12
+*	Indian National Mathematics Olympiad ’08 (All India Rank 2)
+*	[Kishore Vaigyanik Protsahan Yojana Scholarship](http://www.kvpy.iisc.ernet.in/main/index.htm) '07 recipient (awarded to only 100 students across India)
+*	[National Talent Search Examination Scholarship](https://ncert.nic.in/national-talent-examination.php) '06 recipient (awarded to only 1000 students across India)
+
